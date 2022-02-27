@@ -3,14 +3,15 @@
 <h1 align="center">Hi 👋, I'm Cristian!</h1>
 <h3 align="center">A software engineer from Argentina 🇦🇷</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/cristianmiranda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="cristianmiranda" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/cristian-miranda-4a80b522" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cristian-miranda-4a80b522" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://dev.to/cristianmiranda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="cristianmiranda" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/cristian-miranda-4a80b522" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cristian-miranda-4a80b522" height="30" width="40" /></a>
 </p>
 
 <br/>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=cristianmiranda&show_icons=true&locale=en&count_private=true&show_icons=true&theme=dracula" alt="cristianmiranda" />
-</a>
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=cristianmiranda&show_icons=true&locale=en&count_private=true&show_icons=true&theme=dracula" alt="cristianmiranda" />
+  </a>
+</p>
