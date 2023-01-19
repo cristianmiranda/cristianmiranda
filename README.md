@@ -12,6 +12,6 @@
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=cristianmiranda&show_icons=true&locale=en&count_private=true&show_icons=true&theme=dracula" alt="cristianmiranda" />
+  <img align="center" src="https://readme-stats.clckblog.space/api?username=cristianmiranda&show_icons=true&locale=en&count_private=true&show_icons=true&theme=dracula" alt="cristianmiranda" />
   </a>
 </p>
