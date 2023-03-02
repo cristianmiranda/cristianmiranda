@@ -10,6 +10,12 @@
 
 <br/>
 
+<div align="center">
+
+  <a href="">![](https://komarev.com/ghpvc/?username=cristianmiranda)</a>
+
+</div>
+
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://readme-stats.clckblog.space/api?username=cristianmiranda&show_icons=true&locale=en&count_private=true&show_icons=true&theme=dracula" alt="cristianmiranda" />
